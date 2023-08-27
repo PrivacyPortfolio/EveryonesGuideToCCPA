@@ -1,4 +1,4 @@
-# EveryonesGuideToCCPA
+# Everyone's Guide To The CCPA
 All resources except for Vendor Tests
 
 "EVERYONE’S GUIDE TO THE CCPA" is a tool for understanding the Regulations, building Privacy Programs, assessing legal compliance, privacy risks, and evidence gathered for mandated cybersecurity audits. 
